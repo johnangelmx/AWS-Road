@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://labs.vocareum.com/
+HostUrl=https://aws-tc-largeobjects.s3.amazonaws.com/CUR-TF-100-RESTRT-1/190-lab-automate-cloudformation/task1.yaml
